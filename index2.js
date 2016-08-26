@@ -15,4 +15,4 @@ read({ prompt : 'Username: ' }, function (err, user) {
 		process.stdin.destroy();
 	});
 })
-
+ 
